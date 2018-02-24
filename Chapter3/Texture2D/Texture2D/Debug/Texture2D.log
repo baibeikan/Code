@@ -1,49 +1,49 @@
-﻿生成启动时间为 2018/2/3 9:31:45。
-     1>项目“E:\Work\Chapter3\Texture2D\Texture2D\Texture2D.vcxproj”在节点 2 上(build 个目标)。
+﻿生成启动时间为 2018/2/24 11:14:27。
+     1>项目“E:\Work\GitHub\Code\Chapter3\Texture2D\Texture2D\Texture2D.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
-         正在创建“Debug\Texture2D.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+         正在对“Debug\Texture2D.unsuccessfulbuild”执行 Touch 任务。
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Dx11DemoBase.cpp main.cpp Texture2DDemo.cpp
-         Texture2DDemo.cpp
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.h(27): error C2061: 语法错误: 标识符“ID3DBlob”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(36): error C2065: “ID3DBlob”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(36): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(38): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(48): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(48): error C2227: “->GetBufferPointer”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(49): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(49): error C2227: “->GetBufferSize”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(55): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(56): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(56): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(70): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(70): error C2227: “->GetBufferPointer”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(70): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(70): error C2227: “->GetBufferSize”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(72): error C2065: “vsBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(72): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(80): error C2065: “ID3DBlob”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(80): error C2065: “psBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(82): error C2065: “psBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(90): error C2065: “psBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(90): error C2227: “->GetBufferPointer”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(91): error C2065: “psBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(91): error C2227: “->GetBufferSize”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(93): error C2065: “psBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\texture2ddemo.cpp(93): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
-                 类型是“'unknown-type'”
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Dx11DemoBase.cpp Texture2DDemo.cpp main.cpp
          main.cpp
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.h(27): error C2061: 语法错误: 标识符“ID3DBlob”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.h(27): error C2061: 语法错误: 标识符“ID3DBlob”
+         Texture2DDemo.cpp
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.h(27): error C2061: 语法错误: 标识符“ID3DBlob”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(36): error C2065: “ID3DBlob”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(36): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(38): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(48): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(48): error C2227: “->GetBufferPointer”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(49): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(49): error C2227: “->GetBufferSize”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(55): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(56): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(56): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(70): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(70): error C2227: “->GetBufferPointer”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(70): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(70): error C2227: “->GetBufferSize”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(72): error C2065: “vsBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(72): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(80): error C2065: “ID3DBlob”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(80): error C2065: “psBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(82): error C2065: “psBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(90): error C2065: “psBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(90): error C2227: “->GetBufferPointer”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(91): error C2065: “psBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(91): error C2227: “->GetBufferSize”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(93): error C2065: “psBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\texture2ddemo.cpp(93): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
+                 类型是“'unknown-type'”
          Dx11DemoBase.cpp
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.h(27): error C2061: 语法错误: 标识符“ID3DBlob”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.h(27): error C2061: 语法错误: 标识符“ID3DBlob”
      1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11shader.h(35): error C2146: 语法错误: 缺少“;”(在标识符“D3D11_RESOURCE_RETURN_TYPE”的前面)
      1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11shader.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
      1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11shader.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
@@ -110,25 +110,25 @@
      1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dcompiler.h(365): error C2061: 语法错误: 标识符“ID3DBlob”
      1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dcompiler.h(380): error C2061: 语法错误: 标识符“ID3DBlob”
      1>c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dcompiler.h(391): error C2061: 语法错误: 标识符“ID3DBlob”
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(133): error C2061: 语法错误: 标识符“ID3DBlob”
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(141): error C2065: “ID3DBlob”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(141): error C2065: “errorBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(145): error C2065: “buffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(145): error C2065: “errorBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(149): error C2065: “errorBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(151): error C2065: “errorBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(151): error C2227: “->GetBufferPointer”的左边必须指向类/结构/联合/泛型类型
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(133): error C2061: 语法错误: 标识符“ID3DBlob”
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(141): error C2065: “ID3DBlob”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(141): error C2065: “errorBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(145): error C2065: “buffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(145): error C2065: “errorBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(149): error C2065: “errorBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(151): error C2065: “errorBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(151): error C2227: “->GetBufferPointer”的左边必须指向类/结构/联合/泛型类型
                  类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(152): error C2065: “errorBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(152): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(152): error C2065: “errorBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(152): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
                  类型是“'unknown-type'”
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(158): error C2065: “errorBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(159): error C2065: “errorBuffer”: 未声明的标识符
-     1>e:\work\chapter3\texture2d\texture2d\dx11demobase.cpp(159): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(158): error C2065: “errorBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(159): error C2065: “errorBuffer”: 未声明的标识符
+     1>e:\work\github\code\chapter3\texture2d\texture2d\dx11demobase.cpp(159): error C2227: “->Release”的左边必须指向类/结构/联合/泛型类型
                  类型是“'unknown-type'”
          正在生成代码...
-     1>已完成生成项目“E:\Work\Chapter3\Texture2D\Texture2D\Texture2D.vcxproj”(build 个目标)的操作 - 失败。
+     1>已完成生成项目“E:\Work\GitHub\Code\Chapter3\Texture2D\Texture2D\Texture2D.vcxproj”(build 个目标)的操作 - 失败。
 
 生成失败。
 
-已用时间 00:00:04.98
+已用时间 00:00:01.89
